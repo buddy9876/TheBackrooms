@@ -20,6 +20,6 @@ Live Content Mirage: No patch notes, no downtime—new rooms, entities, and lore
 Surreal Twists in the Void: Amid photoreal hellscapes, intentional "fake" anomalies (cartoony glitches, impossible geometries) warp reality, blending dread with disorienting whimsy.
 Backrooms Purist Paradise: Faithful to the roots, but multiplayer-scaled for endless replay—explore solo solitude or squad-based paranoia.
 
-Target: Hardcore survival horror fans craving depth (ages 18+, The Backrooms lore enthusiasts meets Escape from Tarkov grit).
+Target: Hardcore survival horror fans craving depth 
 Platforms: PC (Steam download). Launch: TBD—built for the bold, not the faint-hearted.
-Dive in at your own risk. The rooms are waiting. 🔦
+Dive in at your own risk. The rooms are waiting. 
